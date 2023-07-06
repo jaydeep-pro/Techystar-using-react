@@ -33,11 +33,8 @@ const Home = () => {
         <div>
           <h1>Who we are?</h1>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem
-            architecto, dignissimos expedita esse exercitationem fuga quia
-            pariatur incidunt nostrum veniam libero vitae. Ipsam rem ab
-            veritatis, perspiciatis similique laboriosam est totam at, labore,
-            maiores voluptate consequatur alias corrupti eum eveniet nostrum.
+           At TechyStar, we're dedicated to providing you with the latest technology news, reviews, and updates. Our team of tech enthusiasts is passionate about exploring the ever-evolving world of gadgets, software, and digital innovation.
+            Stay informed with our insightful articles covering a wide range of topics, including smartphones, laptops, smart home devices, gaming, artificial intelligence, and much more. We strive to deliver in-depth analyses, detailed product reviews, and helpful guides to assist you in making informed decisions about your tech purchases.
             </p>
         </div>
       </div>
